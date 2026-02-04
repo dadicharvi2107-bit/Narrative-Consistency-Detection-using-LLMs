@@ -63,7 +63,7 @@ def shorten(text, max_words=200):
 
 
 # =========================
-# Retrieval
+# data Retrieval
 # =========================
 
 def build_index(books, embedder):
